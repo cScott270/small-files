@@ -1,0 +1,9 @@
+1. What is the difference between var and let?
+    var can be redeclared but let cannot be declared more than once. let is block scoped
+    while var is apart of the document window. 
+2. What is the difference between var and const?
+    const can only be defined once per block scope while var can be redeclared.
+3. What is the difference between let and const?
+    let can be reassigned a value but const cannot be changed.
+4. What is hoisting?
+    the lifting of variables and functions to the top of the scope they were defined in.
