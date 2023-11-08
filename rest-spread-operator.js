@@ -80,7 +80,3 @@ function combine(obj1, obj2) {
 function update(obj, key, val) {
     return {...obj, [key]: val}
 }
-
-
-//ES2015
-// ================================================================
